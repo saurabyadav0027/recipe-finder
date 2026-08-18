@@ -12,7 +12,7 @@ A React-based web application to search and view recipes using a public API.
 
 ## Setup
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/recipe-finder.git
+git clone https://github.com/saurabyadav0027/recipe-finder.git
 cd recipe-finder
 
 Install dependencies:
